@@ -1,0 +1,4 @@
+#Sun Jul 14 19:16:19 PKT 2019
+base.0=F\:\\MvvmDagger\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
